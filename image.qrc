@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/12.jpg</file>
+        <file>image/sum.jpg</file>
+        <file>image/0.jpg</file>
+        <file>image/sum1.jpg</file>
+        <file>image/sum2.jpg</file>
+        <file>image/2.png</file>
+        <file>image/11.png</file>
+        <file>image/21.png</file>
+        <file>image/31.png</file>
+        <file>image/Template/0/0.png</file>
+        <file>image/Template/1/0.png</file>
+        <file>image/Template/2/0.png</file>
+        <file>image/Template/3/0.png</file>
+        <file>image/Template/4/0.png</file>
+        <file>image/Template/5/0.png</file>
+        <file>image/Template/6/0.png</file>
+        <file>image/Template/7/0.png</file>
+        <file>image/Template/8/0.png</file>
+        <file>image/Template/9/0.png</file>
+    </qresource>
+</RCC>
